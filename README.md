@@ -6,3 +6,5 @@ A simple yet poweful operating system....
 - Powerful
 - Extensible
 - Open Source
+
+##Under development :smile:
